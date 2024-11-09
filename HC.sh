@@ -1,3 +1,4 @@
+#edited from github
 #!/bin/bash
 
 # Simple Linux Health Check Script
